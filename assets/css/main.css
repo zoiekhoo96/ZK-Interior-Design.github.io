@@ -3928,6 +3928,12 @@ h2 { font-size: 2.2rem; }
   font-size: 13px;
   line-height: 1.8;
 }
+#home {
+  background-image: url("../../hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 
 
