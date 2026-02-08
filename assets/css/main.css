@@ -3917,6 +3917,14 @@ p {
 }
 h1 { font-size: 2.6rem; }
 h2 { font-size: 2.2rem; }
+/* 首页主视觉文字微调 */
+.main-content .intro {
+  font-size: 13px;      /* 控制“设计与生活”那段 */
+  line-height: 1.8;
+  max-width: 700px;
+  opacity: 0.85;
+}
+
 
 
 
