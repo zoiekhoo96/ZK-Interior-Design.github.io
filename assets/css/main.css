@@ -3908,7 +3908,7 @@ input, select, textarea {
 			}
 
 		}body {
-  font-size: 18px;
+  font-size: 12px;
 }nav a {
   font-size: 10px;
 }
@@ -3937,6 +3937,7 @@ h2 { font-size: 2.2rem; }
   background-color: rgba(0, 0, 0, 0.35);
   background-blend-mode: overlay;
 }
+
 
 
 
