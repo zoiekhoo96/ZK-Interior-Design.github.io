@@ -3929,11 +3929,12 @@ h2 { font-size: 2.2rem; }
   line-height: 1.8;
 }
 #home {
-  background-image: url("../../hero-bg.jpg");
+  background-image: url("../../logo.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 
 
 
