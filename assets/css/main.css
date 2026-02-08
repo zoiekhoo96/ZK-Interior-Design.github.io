@@ -3910,13 +3910,14 @@ input, select, textarea {
 		}body {
   font-size: 18px;
 }nav a {
-  font-size: 16px;
+  font-size: 10px;
 }
 p {
   font-size: 12px;
 }
 h1 { font-size: 2.6rem; }
 h2 { font-size: 2.2rem; }
+
 
 
 
